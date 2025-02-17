@@ -287,12 +287,12 @@
   "Servers": {
     "Official": [
 	 {
-		"Address": "5.42.211.115",
+		"Address": "5.42.211.110",
 		"Port": 35200,
 		"Tags": ""
 	 },
 	 {
-		"Address": "5.42.211.115",
+		"Address": "5.42.211.110",
 		"Port": 35100,
 		"Tags": ""
 	 },
